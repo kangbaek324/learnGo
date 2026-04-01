@@ -1,6 +1,9 @@
 package main
 
 func sliceEx() {
+	// 리터럴또는 make로 초기화 시켜줘야됨
+	// append해도 초기화 해줌
+
 	// 슬라이스 생성
 	// var a = []int{1, 2, 3}
 	// fmt.Println(a)

@@ -9,4 +9,5 @@ func main() {
 	closureEx()
 	arrayEx()
 	sliceEx()
+	mapEx()
 }
