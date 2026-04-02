@@ -10,4 +10,10 @@ func main() {
 	arrayEx()
 	sliceEx()
 	mapEx()
+	packageEx()
+	structEx()
+	methodEx()
+	intercaeEx()
+	gorouthineEx()
+	pipeEx()
 }
